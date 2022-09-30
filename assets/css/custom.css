@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    height: 500vh;
+}
+header{
+    /* background-image: url(https://gununnebzi.info/wp-content/uploads/2018/05/turme-reshotka.jpg); */
+    background-image: url(https://logicsforest.com/themeforest/idea-homes/ideahomes_demo_files/images/banner-8.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+}
+.d-flex{
+    display: flex;   
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
